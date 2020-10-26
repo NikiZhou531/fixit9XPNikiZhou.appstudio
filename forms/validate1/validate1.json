@@ -1,0 +1,143 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "action": "",
+  "attributes": "",
+  "background": "",
+  "backgroundimage": "",
+  "borderColor": "transparent",
+  "borderStyle": "",
+  "borderWidth": 0,
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "validate1",
+        "Elements",
+        "inptName1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "validate1",
+        "Elements",
+        "inptEmail1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "validate1",
+        "Elements",
+        "inptPhone1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "validate1",
+        "Elements",
+        "inptSSN1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "validate1",
+        "Elements",
+        "lblName1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "validate1",
+        "Elements",
+        "lblEmail1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "validate1",
+        "Elements",
+        "lblAge.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "validate1",
+        "Elements",
+        "lblSSN1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "validate1",
+        "Elements",
+        "btnValidate1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "validate1",
+        "Elements",
+        "alrtValid1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "validate1",
+        "Elements",
+        "Validator1.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 0,
+  "designWidth": 0,
+  "events": "onshow",
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": 460,
+  "id": "validate1",
+  "language": "JavaScript",
+  "left": 0,
+  "locked": false,
+  "method": "GET",
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "validate1.onshow()",
+  "onsubmit": "",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "scroll_options": "mouseWheel:true,  bounce:true, zoom:false",
+  "scrolling": "false",
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": 0,
+  "width": 320
+}
